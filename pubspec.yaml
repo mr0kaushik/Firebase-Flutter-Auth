@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   # 3rd parties dependencies
   firebase_auth: ^0.16.0
+  google_sign_in: ^4.4.3
   provider: ^4.0.5
   flutter_launcher_icons: "^0.7.3"
 
